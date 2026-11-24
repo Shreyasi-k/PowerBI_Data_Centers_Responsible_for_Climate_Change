@@ -1,26 +1,35 @@
 # Cloud Services and Climate Change
 
 ## Overview
-This repository contains an in-depth analysis of the environmental impact of cloud services, focusing on their role in climate change. It is part of a project for the MI6201 Data and Analytical Decision Making course at the University of Limerick, conducted in the 2023/4 semester.
+An analysis of the environmental impact of cloud services and data centres, covering cloud adoption, the electricity and water footprint of data centres, regulation, and emerging technologies. Group project for **MI6201 Data and Analytical Decision Making**, MSc Business Analytics, University of Limerick (2023/24 Semester 1). **Presented to the Kemmy Business School.**
 
 ## Contents
-- **Cloud Computing Services Overview:** Introduction to cloud computing and its adoption in Germany.
-- **Cloud Services in Germany:** Exploration of the German cloud market, including major providers and local regulations.
-- **Environmental Impact:** Detailed analysis of the electricity and water footprint of data centers, and the broader implications for climate change.
-- **Data Protection and Compliance:** Overview of data protection standards in Germany, with a focus on GDPR compliance.
-- **Future Trends:** Examination of emerging technologies such as edge computing, AI, and 5G, and their potential environmental impact.
+- **Cloud Computing Services Overview:** cloud adoption in Germany and across the EU.
+- **Cloud Services in Germany:** market players, local providers and regulation.
+- **Environmental Impact:** electricity and water footprint of data centres and transmission networks.
+- **Data Protection and Compliance:** GDPR and data-sovereignty considerations.
+- **Future Trends:** edge computing, AI and 5G, and their environmental implications.
 
 ## Key Findings
-1. **Rising Adoption:** The cloud computing market in Germany is rapidly growing, with significant contributions from both global giants and local providers.
-2. **Environmental Costs:** Data centers consume large amounts of electricity and water, contributing to significant environmental impacts. Despite improvements in energy efficiency, the growth in data consumption continues to drive resource use.
-3. **Regulatory Landscape:** Germany's strong emphasis on data protection and compliance, particularly with GDPR, shapes the local cloud computing landscape.
-4. **Emerging Technologies:** Future developments in edge computing, AI, and 5G are expected to further influence the environmental footprint of cloud services.
+1. **Energy model:** Estimated national data-centre electricity use, in total and per capita, using a **0.1–0.3 kWh/GB** range.
+2. **Water footprint:** Projected direct and indirect water consumption of data centres for **~30 European countries, 2015–2030**.
+3. **Efficiency vs growth:** Efficiency gains in data centres are being offset by rapidly rising data demand, so overall resource use keeps growing.
+4. **Regulation shapes the market:** GDPR and data-sovereignty requirements strongly influence cloud provider choice in Germany and the EU.
+5. **Emerging technologies:** Edge computing, AI and 5G are expected to reshape the environmental footprint of cloud services.
+
+## Tools & Data
+- **Power BI:** interactive multi-page dashboard (`data_centres_pbi_final.pbix`, PDF export: `data_centres_pbi_final.pdf`)
+- **Excel:** data preparation
+- **Datasets (4):** European data-centre data, Google Climate Report data, EU28 energy-sector water withdrawal & consumption, cloud-adoption data
+- **Full report:** `cloud services responsible for climate change.pdf`
 
 ## Conclusion
-The report highlights the dual role of cloud services as both a driver of digital transformation and a contributor to environmental challenges. It underscores the need for sustainable practices and regulatory frameworks to mitigate the environmental impact of this rapidly evolving industry.
+Cloud services are both a driver of digital transformation and a growing contributor to environmental pressure. The report argues for sustainable data-centre practices and regulatory frameworks to manage this impact.
 
-## Authors
-- Shreyasi Kendurkar
+## Authors (Group 5)
+- Shreyasi Kendurkar (Power BI Dashboards)
+- Calvin James Baptist Lobo
+- Yashodeep Mahajan
 
 ## Contact
-For any questions or further information, please contact [23224304@studentmail.ul.ie].
+Shreyasi Kendurkar · shreyasi.pk@gmail.com · [LinkedIn](https://www.linkedin.com/in/shreyasi-kendurkar/)
